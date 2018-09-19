@@ -1,6 +1,6 @@
 * * *
 # News
-#### If you have any problem when importing `cd_dist.so`, please compile it yourself as described in [Fan et. al.](https://github.com/fanhqme/PointSetGeneration)
+#### If you have any problem when importing `cd_dist.so`, please compile it yourself, see details in [Fan et. al.](https://github.com/fanhqme/PointSetGeneration)
 
 #### We will release a online demo in a few days.
 * * *
